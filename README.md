@@ -91,7 +91,7 @@ Finally, I plotted the regression line over the original scatter plot (all data)
  inspect how well the line fits the data.
 
 > Example full-data plot:  
-> ![Regression line over data]("plotting\Figure_2.png")  
+> ![Regression line over data][("plotting\Figure_2.png") ](https://github.com/suryasatyam-prog/Simple-Linear-Regression/blob/main/Figure_2.png) 
 
 ---
 
