@@ -35,7 +35,7 @@ independent variable (hours studied) and the dependent variable (score). Specifi
  gave me an idea that a linear model could be appropriate.
 
 > Example plot:  
-> ![Scatter plot with regression line]("plotting\Figure_1.png")  
+> ![Scatter plot with regression line][("plotting\Figure_1.png") ](https://github.com/suryasatyam-prog/Simple-Linear-Regression/blob/main/Figure_1.png) 
 
 ---
 
